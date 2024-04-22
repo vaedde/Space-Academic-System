@@ -1,0 +1,12 @@
+***                 ABOUT                 ***
+_____________________________________________
+|| Developed by Samuel Leal (Vaedde)       ||
+||                                         ||
+|| ASCII arts by https://www.asciiart.eu/  ||
+||                                         ||
+|| GitHub: https://github.com/vaedde       ||
+||                                         ||
+|| This is a College Project               ||
+||                                         ||
+|| 9. Return                               ||
+---------------------------------------------
