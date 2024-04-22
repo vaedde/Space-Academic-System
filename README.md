@@ -16,6 +16,7 @@
     6.2. If possible, reuse functions for different modules of the system (e.g.: a single function to include registration of students, teachers, subjects, classes and enrollments).
 
 7. Data validations and control of possible exceptions/execution errors (try/except).
+8. One file.py only.
 
 **Note: These are the requirements listed by my college.**
 
