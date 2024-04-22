@@ -4,7 +4,7 @@
 
 ## **👨🏻‍🚀 System requirements:**
 
-1. The four basic operations (add/list/update/delete) for all modules (students/teachers/subjects/classes/enrollments) in the system.
+1. The four basic operations (add/list/update/delete) for all modules (aspirants/teachers/subjects/classes/enrollments) in the system.
 2. Use of conditional structures (if/elif/else) in the code.
 3. Use of repetition structures (for or while) to navigate menus
 4. Use of compound data structures (lists, dictionaries, and/or tuples) to organize data.
